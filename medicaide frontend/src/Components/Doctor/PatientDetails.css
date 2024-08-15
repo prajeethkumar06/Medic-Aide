@@ -1,0 +1,76 @@
+.patdetpg{
+    border-style: groove;
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 5%;
+    background-color: white;
+}
+
+.buton{
+    border-style: groove;
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 5%;
+    background-color: white;
+}
+
+.ad{
+    border-style: groove;
+    margin-top: 9%;
+    margin-left: 2%;
+    margin-right: 2%;
+    background-color: white;
+}
+
+.gif{
+    margin-left: 1%;
+}
+
+.reminder{
+    margin-left: 35%;
+    margin-right: 5%;
+    margin-top: -23.75%;
+    margin-bottom: 3%;
+    background-color: white;
+}
+
+.shall1{
+    border-radius: 50%;
+    border-color: black;
+    border-style:groove;
+}
+
+.pp{
+    border-style: double;
+    margin-left: 2%;
+    margin-top: -14.5%;
+    margin-bottom: 7%;
+}
+
+.text{
+    margin-right: 15%;
+    margin-left: 14%;
+    margin-top:1%
+}
+
+.text p{
+    margin-left: 2%;
+}
+
+.text h3{
+    margin-left: 2%;
+}
+
+.text ul{
+    margin-left: 3%;
+}
+
+.gif{
+    display: inline;
+}
+
+.title{
+    margin-left: 2%;
+}
